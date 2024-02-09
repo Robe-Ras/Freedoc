@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+* Ruby version : 3.3.0
 
-* Ruby version
+Application Freedoc Ruby on Rails 
 
-* System dependencies
+Mise en relation de spécialistes du secteur médicale et de patients
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Selon la spécialités médicales du docteur, la ville du docteur et celle du patient
